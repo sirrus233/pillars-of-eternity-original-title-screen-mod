@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitleScreenMod", "TitleScreenMod.csproj", "{839EC2DA-C1CE-4D6E-93D7-CE0C3532DEE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839EC2DA-C1CE-4D6E-93D7-CE0C3532DEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839EC2DA-C1CE-4D6E-93D7-CE0C3532DEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839EC2DA-C1CE-4D6E-93D7-CE0C3532DEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839EC2DA-C1CE-4D6E-93D7-CE0C3532DEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AEBD471-5265-4929-BDAA-B2E705EC9E48}
+	EndGlobalSection
+EndGlobal
